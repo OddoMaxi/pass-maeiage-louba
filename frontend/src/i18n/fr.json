@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "payments": "Payer",
+    "howToApply": "Comment procéder",
+    "faq": "FAQ",
+    "support": "Support",
+    "moderator": "Modérateur",
+    "login": "Connexion"
+  },
+  "home": {
+    "title": "Plateforme de Paiement du Passeport Guinéen",
+    "subtitle": "Payez vos frais en ligne rapidement et facilement"
+  },
+  "payments": {
+    "title": "Paiement du passeport",
+    "warning": "Attention",
+    "warningSubmit": "Veuillez soumettre uniquement des informations exactes et vérifiées. Toute information incorrecte peut entraîner le rejet de votre demande.",
+    "proxyInfo": "Si vous faites une demande pour quelqu'un d'autre, veuillez fournir les informations du demandeur, pas les vôtres.",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "birthDate": "Date de naissance",
+    "day": "Jour",
+    "month": "Mois",
+    "january": "Janvier",
+    "february": "Février",
+    "march": "Mars",
+    "april": "Avril",
+    "may": "Mai",
+    "june": "Juin",
+    "july": "Juillet",
+    "august": "Août",
+    "september": "Septembre",
+    "october": "Octobre",
+    "november": "Novembre",
+    "december": "Décembre",
+    "year": "Année",
+    "gender": "Genre",
+    "male": "Homme",
+    "female": "Femme",
+    "enrollmentLocation": "Lieu d'enrôlement",
+    "countryTerritory": "Pays ou Territoire",
+    "embassy": "Ambassade ou Consulat",
+    "passportValidity": "Validité du passeport",
+    "summary": "Résumé et confirmation",
+    "country": "Pays",
+    "warningText": "Veuillez vérifier attentivement toutes les informations avant de procéder au paiement. Une fois le paiement effectué, ces informations ne pourront plus être modifiées.",
+    "infoCorrect": "Je confirme que toutes les informations fournies sont correctes",
+    "back": "Retour",
+    "continue": "Continuer",
+    "pay": "Payer maintenant",
+    "resumeProcess": "Reprendre un processus",
+    "paymentHistory": "Historique des paiements"
+  },
+  "how": {
+    "title": "Procédure d'application"
+  },
+  "faq": {
+    "title": "Questions fréquemment posées"
+  },
+  "support": {
+    "title": "Assistance"
+  },
+  "login": {
+    "title": "Identification",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "submit": "Connexion",
+    "noAccount": "Je n'ai pas d'identifiants",
+    "register": "S'inscrire",
+    "error": "Identifiants incorrects. Veuillez réessayer."
+  },
+  "footer": {
+    "menu": "Menu",
+    "language": "Langue",
+    "french": "Français",
+    "english": "Anglais",
+    "govLogo": "Gouvernement Guinéen",
+    "govName": "Gouvernement Guinéen",
+    "copyright": "Tous droits réservés"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Home",
+    "payments": "Payments",
+    "howToApply": "How to Apply",
+    "faq": "FAQ",
+    "support": "Support",
+    "moderator": "Moderator",
+    "login": "Login"
+  },
+  "home": {
+    "title": "Guinean Passport Payment Platform",
+    "subtitle": "Pay your fees online quickly and easily"
+  },
+  "payments": {
+    "title": "Passport Payment",
+    "warning": "Warning",
+    "warningSubmit": "Please submit only accurate and verified information. Any incorrect information may result in the rejection of your application.",
+    "proxyInfo": "If you are applying on behalf of someone else, please provide the applicant's information, not yours.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "birthDate": "Date of Birth",
+    "day": "Day",
+    "month": "Month",
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December",
+    "year": "Year",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "enrollmentLocation": "Enrollment Location",
+    "countryTerritory": "Country or Territory",
+    "embassy": "Embassy or Consulate",
+    "passportValidity": "Passport Validity",
+    "summary": "Summary and Confirmation",
+    "country": "Country",
+    "warningText": "Please carefully verify all information before proceeding with payment. Once payment is made, this information cannot be modified.",
+    "infoCorrect": "I confirm that all provided information is correct",
+    "back": "Back",
+    "continue": "Continue",
+    "pay": "Pay Now",
+    "resumeProcess": "Resume a process",
+    "paymentHistory": "Payment history"
+  },
+  "how": {
+    "title": "Application procedure"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions"
+  },
+  "support": {
+    "title": "Support"
+  },
+  "login": {
+    "title": "Authentication",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Login",
+    "noAccount": "I don't have an account",
+    "register": "Register",
+    "error": "Incorrect credentials. Please try again."
+  },
+  "footer": {
+    "menu": "Menu",
+    "language": "Language",
+    "french": "French",
+    "english": "English",
+    "govLogo": "Guinean Government",
+    "govName": "Guinean Government",
+    "copyright": "All rights reserved"
+  }
+}
